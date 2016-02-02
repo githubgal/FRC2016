@@ -1,4 +1,4 @@
-package org.impact2585.frc2016;
+package org.impact2585.frc2016.systems;
 
 import edu.wpi.first.wpilibj.networktables.NetworkTable;
 
